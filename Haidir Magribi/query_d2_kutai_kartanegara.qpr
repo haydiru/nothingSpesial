@@ -1,0 +1,4 @@
+SELECT Podes_desa_2014_d2_new.*;
+ FROM podes_desa_2014_d2_new;
+ WHERE  Podes_desa_2014_d2_new.r101 = "64";
+   AND  Podes_desa_2014_d2_new.r102 = "03"
