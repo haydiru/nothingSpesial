@@ -1,2 +1,5 @@
 Aronoff, S.. 1989. Geographic Information Systems: A Management Perspective. Canadan, Ottawa : WDL Publication.
 M. Aziz, Sistem Informasi Geografis Berbasis Desktop dan Web, Penerbit Gava Media, Yogyakarta (2006)
+^ Ishikawa, Kaoru, Guide to Quality Control (Japanese): Gemba No QC Shuho (1968) by JUSE Press, Ltd., Tokyo
+^ Ishikawa, Kaoru, Guide to Quality Control, Asian Productivity Organization, UNIPUB, 1976, ISBN 92-833-1036-5
+Bentley,  Lonnie  D,  dan  Jeffrey  L  Whitten.  (2007). Systems Analysis  and  Design  for  the  Global  Enterprise  Seventh  Edition, New York: McGraw-Hill
