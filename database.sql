@@ -17,6 +17,7 @@ CREATE TABLE IF NOT EXISTS `fakta` (
   `id_wilayah` varchar(11) NOT NULL,
 	`kode_unik` varchar(50) NOT NULL,
   `id_variabel` int(11) NOT NULL,
+  `id_user` int(11) NOT NULL,
   `id_kategori` int(11) NOT NULL, 
   `id_item_kategori` int(11) NOT NULL,
   `id_sumber_data`  int(11) NOT NULL,
